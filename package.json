@@ -1,0 +1,22 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elijah1368/Pomodoro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elijah1368/Pomodoro/issues"
+  },
+  "homepage": "https://github.com/Elijah1368/Pomodoro#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
